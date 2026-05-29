@@ -5,7 +5,7 @@ O objetivo é praticar conceitos de front-end e criar uma página visualmente ag
 ### 🎥 Demonstração
 👉 [Visualizar Projeto no GitHub Pages](https://dodogm.github.io/Local-Turistico/)  
 
-*(adicione aqui uma captura de tela ou GIF da página)*
+
 
 ### 🛠️ Tecnologias Utilizadas
 - HTML5
